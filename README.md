@@ -57,7 +57,7 @@ ___
 1. **Manually** 선택
 ![image](https://github.com/SJ70/SonarQubePortable/assets/50670730/6e875ca3-decb-4a5f-9b52-63b015a317eb)
 
-2. 프로젝트 생성
+2. 프로젝트 생성  
 ![image](https://github.com/SJ70/SonarQubePortable/assets/50670730/4a7cff7b-0a71-4793-98b1-8eb9c155cbbe)
    - **Project display name** : 프로젝트명 입력
    - **Project key** : 기본적으로 Project display name과 동일
@@ -98,7 +98,7 @@ ___
 gradlew sonar -Dsonar.projectKey=키 -Dsonar.projectName=이름 -Dsonar.host.url=http://localhost:9000 -Dsonar.token=토큰
 ```
 
-3. 대기
+3. 대기  
 ![image](https://github.com/SJ70/SonarQubePortable/assets/50670730/5376f8e7-30b6-447b-a18e-670cbd73ac37)
 
 ___
