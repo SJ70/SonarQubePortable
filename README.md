@@ -1,3 +1,6 @@
+# [플러그인 포함 (1.09GB)](https://drive.google.com/open?id=1A5LsWv1XZ70j1onYTFyVOTSqL5z6H8pL&usp=drive_fs)
+# [플러그인 미포함 (696MB)](https://drive.google.com/open?id=1AAypVbSScndX4peayZE9xHUkDp1nejeP&usp=drive_fs)
+
 # 🔍️ Portable SonarQube
 
 정적 코드 분석 도구 **SonarQube**를 별도의 추가 설치 없이 편리하게 실행할 수 있음
@@ -24,6 +27,7 @@
 
 ___
 ## 🚧 설치
+
 **⚠️중요** : 첨부된 압축 파일을 **C:\\** 경로에 해제  
 ![image](https://github.com/SJ70/SonarQubePortable/assets/50670730/a710b399-1597-422d-aab1-8c84e468ef11)
 
