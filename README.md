@@ -1,5 +1,5 @@
-# [플러그인 포함 (1.09GB)](https://drive.google.com/open?id=1A5LsWv1XZ70j1onYTFyVOTSqL5z6H8pL&usp=drive_fs)
-# [플러그인 미포함 (696MB)](https://drive.google.com/open?id=1AAypVbSScndX4peayZE9xHUkDp1nejeP&usp=drive_fs)
+### [📥️ 플러그인 포함 (1.09GB)](https://drive.google.com/open?id=1A5LsWv1XZ70j1onYTFyVOTSqL5z6H8pL&usp=drive_fs)
+### [📥️ 플러그인 미포함 (696MB)](https://drive.google.com/open?id=1AAypVbSScndX4peayZE9xHUkDp1nejeP&usp=drive_fs)
 
 # 🔍️ Portable SonarQube
 
@@ -12,7 +12,7 @@
 - 해당 메뉴얼이 대상으로 하는 프로젝트의 개발환경
 
   1. React (javascript)
-  2. Gradle (Java)
+  2. Gradle (Java)  
   이하 Contains 참조
 
 ### 📚️ Contains
@@ -26,7 +26,7 @@
 - Plugin: PMD
 
 ___
-## 🚧 설치
+## 📥️ 설치
 
 **⚠️중요** : 첨부된 압축 파일을 **C:\\** 경로에 해제  
 ![image](https://github.com/SJ70/SonarQubePortable/assets/50670730/a710b399-1597-422d-aab1-8c84e468ef11)
@@ -52,7 +52,7 @@ pw: admin
 ![image](https://github.com/SJ70/SonarQubePortable/assets/50670730/2f9a948e-fde7-4e9e-8cc4-4c145c77e48d)
 
 ___
-## 프로젝트 생성
+## 🛠️ 프로젝트 생성
 
 1. **Manually** 선택
 ![image](https://github.com/SJ70/SonarQubePortable/assets/50670730/6e875ca3-decb-4a5f-9b52-63b015a317eb)
@@ -66,7 +66,7 @@ ___
 ![image](https://github.com/SJ70/SonarQubePortable/assets/50670730/160751d2-26db-4bab-a48e-1799048b46f8)
 
 ___
-## 진단 준비
+## 🔎 진단 준비
 
 1. **Locally** 선택
 ![image](https://github.com/SJ70/SonarQubePortable/assets/50670730/ac96cf00-6d8d-451c-a115-eb934a68816d)
@@ -84,7 +84,7 @@ plugins {
 ```
 
 ___
-## 진단
+## 🔍️ 진단
 
 초기에 **StartSonarQube.bat**을 실행하였던 콘솔창을 다룸  
 
@@ -102,7 +102,7 @@ gradlew sonar -Dsonar.projectKey=키 -Dsonar.projectName=이름 -Dsonar.host.url
 ![image](https://github.com/SJ70/SonarQubePortable/assets/50670730/5376f8e7-30b6-447b-a18e-670cbd73ac37)
 
 ___
-## 진단 결과
+## 📄 진단 결과
 
 ![image](https://github.com/SJ70/SonarQubePortable/assets/50670730/71ee659f-b029-45b1-bdef-d73cd465aa36)
 
@@ -123,7 +123,7 @@ ___
 
 
 ___
-## 프로그램 종료
+## ⛔️ 프로그램 종료
 실행 중인 콘솔 창에서 종료  
 ```
 ctrl + c
